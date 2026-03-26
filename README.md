@@ -1,12 +1,8 @@
-Certainly! Below is a description that you can use for your GitHub repository:
-
----
-
 # Data Analysis of AQI from 1980 to 2022
 
 ## Overview
 
-This project delves into the intricate world of air quality by conducting a thorough analysis of the Air Quality Index (AQI) data spanning from 1980 to 2022. The primary objective is to unravel patterns, trends, and underlying factors that contribute to air pollution over this extensive time frame.
+This project analyse the Air Quality Index (AQI) data spanning from 1980 to 2022. The primary objective is to find patterns, trends, and underlying factors that contribute to air pollution over the past time.
 
 ## Key Highlights
 
